@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_Australia">Canberra is the capital of Australia.</string>
+    <string name="question_California">Sacramento is the capital of California</string>
+    <string name="question_Mexico">Colotlan is the capital of Mexico</string>
+    <string name="question_USA">Washington DC is the capital of USA</string>
+    <string name ="true_button">True</string>
+    <string name="false_button" >False</string>
+    <string name="correct_toast">Correct</string>
+    <string name="incorrect_toast">Incorrect</string>
+    <string name="next_button">Next</string>
+    <string name="prev_button">Prev</string>
+
+
+</resources>
