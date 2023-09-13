@@ -1,3 +1,3 @@
 # GeoQuiz2
-Geography quiz
+Geography quiz:
 A geography quiz that is used with android studio
